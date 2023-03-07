@@ -1,0 +1,3 @@
+jdatetime
+django~=3.2
+
